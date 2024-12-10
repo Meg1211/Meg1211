@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Meghan 👋
+
+<a href="https://github.com/devxb/gitanimals">
+    <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/meg1211"/>
+</a>
 
 <!--
 **Meg1211/Meg1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
